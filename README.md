@@ -12,4 +12,5 @@ Within this submission:
 3. Displayed the sample metadata, i.e., an individual's demographic information.
 4. Displayed each key-value pair from the metadata JSON object somewhere on the page.
 
-<a href="index.html" target="_blank">Click here to open the HTML file in Chrome</a>
+<a href="http://localhost:8000/index.html" target="_blank">Click here to open the HTML file in Chrome</a>
+
